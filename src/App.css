@@ -1,0 +1,13 @@
+/* ... (previous styles) */
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.App h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #333;
+}
